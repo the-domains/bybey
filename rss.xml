@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bybey]]></title>
         <description><![CDATA[bybey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bybey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 18:14:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 18:17:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bybey/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0769a38-393c-4786-8b5f-e04b15dce786.jpg">]]></description>
-            <link>undefinedmadrid-business-intelligence-technology/index.html</link>
+            <title><![CDATA[BYBEY]]></title>
+            <description><![CDATA[<article><h1>BYBEY</h1><p>BYBEY PATTERN DESIGN</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e908044edfb17d2a7ca5e24f1ddbcb4a6e25883.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bybey/madrid-business-intelligence-technology/index.html</link>
             <guid isPermaLink="false">e58976d1-c281-4795-bc1f-6801cd4d46c1</guid>
-            <pubDate>Mon, 11 Apr 2016 18:13:51 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 18:17:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
